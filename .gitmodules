@@ -1,0 +1,4 @@
+[submodule "hughsite/public"]
+	path = hughsite/public
+	url = https://github.com/hughschader/hughschader.github.io.git
+	branch = main

@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://hughschader.github.io/"
 title   = "hughschader"
 languageCode = "en-us"
-theme = "timeline"
+theme = "hugo-theme-timeline"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
@@ -145,13 +145,13 @@ disableHugoGeneratorInject = false
     identifier = "projects"
     name       = "Projects"
     url        = "timeline/"
-    weight     = 1
+    weight     = 2
 
   [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "/"
-    weight     = 2
+    weight     = 1
 
 
 [markup]
